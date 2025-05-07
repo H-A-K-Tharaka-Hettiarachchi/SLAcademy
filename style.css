@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Comic";
+    src: url("font/COMIC.TTF");
+}
+
+@font-face {
+    font-family: "Black_Brush";
+    src: url("font/Black/Brush.ttf");
+}
+
+* {
+    font-family: "Comic";
+    font-size: 14px;
+}
+
+.title1 {
+    font-family: "Black_Brush";
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.title3 {
+    font-family: "Black_Brush";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.cursor:hover {
+    cursor: pointer;
+}
+
+.title4 {
+    font-family: "Black_Brush";
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.dark-blue {
+    background-color: rgba(2, 2, 206, 0.992);
+}
+
+.dark-purple {
+    background-color: rgb(71, 13, 125);
+}
+
+.dark-brown {
+    background-color: rgb(134, 70, 70);
+}
