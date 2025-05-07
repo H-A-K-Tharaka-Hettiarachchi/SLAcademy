@@ -24,7 +24,8 @@ PHP
 
 MySQL
 
-📄 Project Description
+##📄 Project Description
+
 SLAcademy is a complete student portal that allows students to easily access academic services online, while giving administrators full control over student data and academic management. It includes core functionalities such as student registration, course enrollment, grade tracking, and more, all designed with a responsive and user-friendly interface.
 
 💡 About
